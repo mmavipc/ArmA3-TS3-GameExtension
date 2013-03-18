@@ -1,0 +1,1 @@
+Take the DLL out of the release folder and place it in the same folder as the arma 2 exe.

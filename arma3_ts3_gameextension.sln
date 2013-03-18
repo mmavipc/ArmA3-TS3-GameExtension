@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arma3_ts3_gameextension", "arma3_ts3_gameextension.vcxproj", "{2AE7EE00-CF0F-4C5C-AADE-4446DA9EC5DD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ext_Tester", "Ext_Tester\Ext_Tester.vcxproj", "{92598AA2-B119-48B9-A0B2-70BF684808F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE7EE00-CF0F-4C5C-AADE-4446DA9EC5DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AE7EE00-CF0F-4C5C-AADE-4446DA9EC5DD}.Debug|Win32.Build.0 = Debug|Win32
+		{2AE7EE00-CF0F-4C5C-AADE-4446DA9EC5DD}.Release|Win32.ActiveCfg = Release|Win32
+		{2AE7EE00-CF0F-4C5C-AADE-4446DA9EC5DD}.Release|Win32.Build.0 = Release|Win32
+		{92598AA2-B119-48B9-A0B2-70BF684808F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92598AA2-B119-48B9-A0B2-70BF684808F3}.Debug|Win32.Build.0 = Debug|Win32
+		{92598AA2-B119-48B9-A0B2-70BF684808F3}.Release|Win32.ActiveCfg = Release|Win32
+		{92598AA2-B119-48B9-A0B2-70BF684808F3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
